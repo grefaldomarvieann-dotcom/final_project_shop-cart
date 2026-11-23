@@ -7,7 +7,7 @@ type Plant = { id: number; name: string; latin: string; price: number; category:
 
 const plants: Plant[] = [
   { id: 1, name: "Monstera Deliciosa", latin: "Monstera deliciosa", price: 38, category: "Statement plants", image: "https://images.unsplash.com/photo-1614594975525-e45190c55d0b?auto=format&fit=crop&w=900&q=85", tag: "Bestseller", light: "Bright, indirect light" },
-  { id: 2, name: "Olive Tree", latin: "Olea europaea", price: 64, category: "Statement plants", image: "https://images.unsplash.com/photo-1600411833117-2e7e019e9e5e?auto=format&fit=crop&w=900&q=85", tag: "New arrival", light: "Bright direct light" },
+  { id: 2, name: "Olive Tree", latin: "Olea europaea", price: 64, category: "Statement plants", image: "https://i.pinimg.com/736x/a1/bd/9e/a1bd9eec6e3952f9ae7cdf5d46be9ee8.jpg?auto=format&fit=crop&w=900&q=85", tag: "New arrival", light: "Bright direct light" },
   { id: 3, name: "Bird of Paradise", latin: "Strelitzia nicolai", price: 52, category: "Statement plants", image: "https://images.unsplash.com/photo-1597055181300-a0ee7fc3c1ac?auto=format&fit=crop&w=900&q=85", light: "Bright, indirect light" },
   { id: 4, name: "Fiddle Leaf Fig", latin: "Ficus lyrata", price: 48, category: "Statement plants", image: "https://images.unsplash.com/photo-1616690249084-ae9c0119fadd?auto=format&fit=crop&w=900&q=85", light: "Bright, filtered light" },
   { id: 5, name: "Golden Pothos", latin: "Epipremnum aureum", price: 24, category: "Easy care", image: "https://images.unsplash.com/photo-1616690249084-ae9c0119fadd?auto=format&fit=crop&w=900&q=85", tag: "Easy care", light: "Low to bright light" },
